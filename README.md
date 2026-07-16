@@ -19,7 +19,7 @@ Este proyecto es **independiente** del frontend: no renderiza vistas, solo expon
 
 ```bash
 # 1. Clonar el repositorio
-git clone <url-del-repo-backend> backend
+git clone https://github.com/juanmendozaca-netizen/admin-tareas-backend.git backend
 cd backend
 
 # 2. Instalar dependencias
